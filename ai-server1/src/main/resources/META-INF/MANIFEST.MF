@@ -1,0 +1,60 @@
+Manifest-Version: 1.0
+Class-Path: jackson-dataformat-xml-2.10.0.jar reactor-core-3.3.0.RELEA
+ SE.jar jul-to-slf4j-1.7.29.jar netflix-infix-0.3.0.jar bcpkix-jdk15on
+ -1.60.jar spring-webmvc-5.2.1.RELEASE.jar xstream-1.4.11.1.jar spring
+ -boot-autoconfigure-2.2.1.RELEASE.jar ribbon-core-2.3.0.jar jersey-ap
+ ache-client4-1.19.1.jar commons-collections-3.2.2.jar spring-cloud-st
+ arter-netflix-archaius-2.2.0.RELEASE.jar jakarta.xml.bind-api-2.3.2.j
+ ar reactor-extra-3.3.0.RELEASE.jar micrometer-core-1.3.1.jar slf4j-ap
+ i-1.7.29.jar woodstox-core-5.2.1.jar spring-cloud-netflix-eureka-clie
+ nt-2.2.0.RELEASE.jar LatencyUtils-2.0.3.jar jackson-module-jaxb-annot
+ ations-2.10.0.jar reactive-streams-1.0.3.jar classmate-1.5.1.jar jack
+ son-module-parameter-names-2.10.0.jar httpcore-4.4.12.jar jboss-loggi
+ ng-3.4.1.Final.jar spring-cloud-loadbalancer-2.2.0.RELEASE.jar spring
+ -security-crypto-5.2.1.RELEASE.jar jakarta.validation-api-2.0.1.jar j
+ ackson-datatype-jdk8-2.10.0.jar aspectjweaver-1.9.4.jar spring-cloud-
+ netflix-archaius-2.2.0.RELEASE.jar ribbon-2.3.0.jar guice-4.1.0.jar l
+ og4j-to-slf4j-2.12.1.jar log4j-api-2.12.1.jar rxnetty-contexts-0.4.9.
+ jar logback-core-1.2.3.jar istack-commons-runtime-3.0.8.jar jersey-se
+ rver-1.19.1.jar spring-boot-starter-freemarker-2.2.1.RELEASE.jar jers
+ ey-servlet-1.19.1.jar spring-context-support-5.2.1.RELEASE.jar jakart
+ a.annotation-api-1.3.5.jar commons-configuration-1.8.jar snakeyaml-1.
+ 25.jar stringtemplate-3.2.1.jar jersey-client-1.19.1.jar jackson-data
+ bind-2.10.0.jar javax.inject-1.jar spring-beans-5.2.1.RELEASE.jar sta
+ x-ex-1.8.1.jar xmlpull-1.1.3.1.jar hibernate-validator-6.0.18.Final.j
+ ar jsr311-api-1.1.1.jar spring-boot-starter-validation-2.2.1.RELEASE.
+ jar spring-cloud-context-2.2.0.RELEASE.jar spring-boot-starter-cache-
+ 2.2.1.RELEASE.jar commons-codec-1.13.jar jersey-core-1.19.1.jar sprin
+ g-cloud-netflix-ribbon-2.2.0.RELEASE.jar guava-16.0.jar freemarker-2.
+ 3.29.jar evictor-1.0.0.jar spring-cloud-starter-netflix-eureka-server
+ -2.2.0.RELEASE.jar tomcat-embed-el-9.0.27.jar jackson-datatype-jsr310
+ -2.10.0.jar ribbon-transport-2.3.0.jar spring-boot-starter-json-2.2.1
+ .RELEASE.jar logback-classic-1.2.3.jar archaius-core-0.7.6.jar antlr-
+ 2.7.7.jar spring-cloud-starter-loadbalancer-2.2.0.RELEASE.jar servo-c
+ ore-0.12.21.jar rxnetty-0.4.9.jar stax2-api-4.2.jar spring-cloud-netf
+ lix-eureka-server-2.2.0.RELEASE.jar tomcat-embed-core-9.0.27.jar gson
+ -2.8.6.jar jackson-annotations-2.10.0.jar netflix-statistics-0.1.1.ja
+ r jackson-core-2.10.0.jar spring-aop-5.2.1.RELEASE.jar spring-boot-st
+ arter-actuator-2.2.1.RELEASE.jar FastInfoset-1.2.16.jar jakarta.activ
+ ation-api-1.2.1.jar hystrix-core-1.5.18.jar stax-api-1.0.1.jar bcprov
+ -jdk15on-1.60.jar aopalliance-1.0.jar spring-security-rsa-1.0.7.RELEA
+ SE.jar spring-boot-starter-aop-2.2.1.RELEASE.jar HdrHistogram-2.1.11.
+ jar spring-boot-starter-2.2.1.RELEASE.jar tomcat-embed-websocket-9.0.
+ 27.jar spring-web-5.2.1.RELEASE.jar spring-context-5.2.1.RELEASE.jar 
+ rxnetty-servo-0.4.9.jar spring-cloud-starter-netflix-ribbon-2.2.0.REL
+ EASE.jar spring-boot-starter-tomcat-2.2.1.RELEASE.jar eureka-core-1.9
+ .13.jar spring-cloud-commons-2.2.0.RELEASE.jar spring-expression-5.2.
+ 1.RELEASE.jar spring-core-5.2.1.RELEASE.jar ribbon-eureka-2.3.0.jar j
+ oda-time-2.10.5.jar commons-math-2.2.jar spring-boot-actuator-2.2.1.R
+ ELEASE.jar eureka-client-1.9.13.jar spring-boot-actuator-autoconfigur
+ e-2.2.1.RELEASE.jar txw2-2.3.2.jar ribbon-httpclient-2.3.0.jar xpp3_m
+ in-1.1.4c.jar antlr-runtime-3.4.jar spring-cloud-netflix-hystrix-2.2.
+ 0.RELEASE.jar jsr305-3.0.1.jar spring-boot-2.2.1.RELEASE.jar httpclie
+ nt-4.5.10.jar netflix-eventbus-0.3.0.jar spring-jcl-5.2.1.RELEASE.jar
+  spring-cloud-starter-2.2.0.RELEASE.jar commons-jxpath-1.3.jar jettis
+ on-1.3.7.jar netflix-commons-util-0.3.0.jar spring-boot-starter-web-2
+ .2.1.RELEASE.jar rxjava-1.3.8.jar ribbon-loadbalancer-2.3.0.jar jaxb-
+ runtime-2.3.2.jar commons-lang-2.6.jar spring-boot-starter-logging-2.
+ 2.1.RELEASE.jar
+Main-Class: com.AiServer1Application
+

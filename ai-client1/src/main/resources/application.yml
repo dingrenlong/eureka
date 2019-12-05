@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: ai-client1
+server:
+  port: 8769
+eureka:
+  instance:
+    #本服务所在服务器的IP地址
+    hostname: localhost
+    #注册中心所在服务器的IP地址
+    hostname1: localhost
+
+#    hostname: localhost
+  client:
+    serviceUrl:
+      # 集群时，其实只需要配置一个地址，当这个地址的注册中心挂掉后，会自动注册到其他注册中心
+      # 配置多个注册中心地址的好处是：启动之前，某个注册中心挂掉了，会抛出异常，但是也会正常注册到其他某个注册中心
+#      defaultZone: http://${eureka.instance.hostname}:8761/eureka/,http://${eureka.instance.hostname}:8762/eureka/,http://${eureka.instance.hostname}:8763/eureka/
+      defaultZone: http://skyworth:skyworth1@${eureka.instance.hostname1}:8761/eureka/,http://skyworth:skyworth2@${eureka.instance.hostname1}:8762/eureka/,http://skyworth:skyworth3@${eureka.instance.hostname1}:8763/eureka/
+#  #安全登入用户设置
+#  security:
+#    user:
+#      name: skyworth
+#      password: skyworth1
