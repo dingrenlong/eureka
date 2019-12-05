@@ -1,6 +1,6 @@
 eureka:
   instance:
-    hostname: localhost
+    hostname: localhost # 消费者所在服务器的IP地址
     hostname1: localhost # 注册中心所在服务器的IP地址
   client:
     serviceUrl: #注册中心的注册地址
